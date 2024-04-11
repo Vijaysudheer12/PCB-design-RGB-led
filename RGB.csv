@@ -1,0 +1,6 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R1,R3,R2";"R_0805_2012Metric";3;"1k";;;
+2;"SW2,SW1,SW3";"SW_SPDT_PCM12";3;"spst";;;
+3;"D1";"LED_Kingbright_APFA3010_3x1.5mm_Horizontal";1;"LED_RGKB";;;
+4;"H2,H1";"MountingHole_2.1mm";2;"MountingHole";;;
+5;"J1";"PinHeader_1x02_P1.00mm_Horizontal";1;"vcc GND";;;
